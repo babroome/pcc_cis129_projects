@@ -11,7 +11,7 @@
 
 print( )
 print('***************************************')
-print('My Coffee and Muffin Shop')
+print("Bryce's Cafe and Bakery")
 
 
 # In[32]:
@@ -67,6 +67,7 @@ print('Total: ${:,.2f}'.format(total))
 print( )
 print('***************************************\n')
 
+print('Thank you, and we hope to see you again!')
 
 # In[ ]:
 
